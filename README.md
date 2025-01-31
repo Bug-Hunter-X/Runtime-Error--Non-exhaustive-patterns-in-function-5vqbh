@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: using `undefined`.  The `undefined` value is a placeholder that signals an incomplete definition.  When the program tries to use it, a runtime error occurs. The solution shows how to properly handle potential undefined values using pattern matching or by providing default values.
